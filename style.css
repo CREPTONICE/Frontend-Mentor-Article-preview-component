@@ -243,6 +243,16 @@ main {
   .box {
     scale: 1.3;
   }
+
+  #description {
+    max-width: 25ch;
+    font-size: 1.2rem;
+  }
+
+  #sub__description {
+    max-width: 31.5ch;
+    font-size: 0.9rem;
+  }
 }
 
 @media (min-width: 600px) {
