@@ -233,11 +233,11 @@ main {
   }
 }
 
-@media (max-width: 425px) {
+/* @media (max-width: 425px) {
   #main__img {
     width: 280px;
   }
-}
+} */
 
 @media (min-width: 425px) {
   .box {
