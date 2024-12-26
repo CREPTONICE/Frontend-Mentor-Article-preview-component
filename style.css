@@ -336,6 +336,7 @@ main {
     letter-spacing: 3px;
   }
 }
+
 @media (min-width: 1200px) {
   .box {
     scale: 1.4;
