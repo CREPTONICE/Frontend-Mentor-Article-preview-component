@@ -331,7 +331,7 @@ main {
   }
 }
 
-@media (min-width: 1040px) and (max-height: 1500px) {
+@media (min-width: 1040px) and (max-height: 700px) {
   #main__img {
     height: 290px;
   }
