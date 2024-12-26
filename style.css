@@ -330,6 +330,16 @@ main {
     letter-spacing: 3px;
   }
 }
+
+@media (min-width: 1040px) and (max-height: 1500px) {
+  #main__img {
+    height: 290px;
+  }
+  #socials {
+    bottom: 4.5rem;
+    right: -3.5rem;
+  }
+}
 @media (min-width: 1200px) {
   .box {
     scale: 1.4;
@@ -389,9 +399,3 @@ main {
     scale: 1;
   }
 }
-/* 
-@media (max-height: 700px) and (max-width: 1000) {
-  .box {
-    margin-top: 2rem;
-  }
-} */
